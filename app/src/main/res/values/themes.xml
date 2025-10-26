@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App-wide theme (use this on the <application> in AndroidManifest) -->
+    <style name="Theme.LizhtApp" parent="Theme.Material3.DayNight">
+        <!-- Optional customizations -->
+        <!-- <item name="android:statusBarColor">?attr/colorPrimary</item> -->
+    </style>
+
+    <!-- No action bar variant for the intro video activity -->
+    <style name="Theme.LizhtApp.NoActionBar" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Keep fullscreen look for VideoView -->
+    </style>
+
+</resources>

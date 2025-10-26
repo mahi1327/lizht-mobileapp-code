@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023011103404",
+    "project_id": "lizht-4b149",
+    "storage_bucket": "lizht-4b149.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023011103404:android:a1b5dc27da8d238e54b509",
+        "android_client_info": {
+          "package_name": "com.lizht.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARbl88Mn8KkTbcEkVjYJA1jgPcNWUNQ5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
